@@ -52,6 +52,7 @@
 [submodule "frozen/Adafruit_CircuitPython_HID"]
 	path = frozen/Adafruit_CircuitPython_HID
 	url = https://github.com/kk-sonata/Adafruit_CircuitPython_HID.git
+	branch = telephony
 [submodule "ports/atmel-samd/Adafruit_CircuitPython_Motor"]
 	path = frozen/Adafruit_CircuitPython_Motor
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Motor.git
