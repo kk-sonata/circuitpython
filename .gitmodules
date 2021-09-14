@@ -51,7 +51,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground.git
 [submodule "frozen/Adafruit_CircuitPython_HID"]
 	path = frozen/Adafruit_CircuitPython_HID
-	url = https://github.com/adafruit/Adafruit_CircuitPython_HID.git
+	url = https://github.com/kk-sonata/Adafruit_CircuitPython_HID.git
 [submodule "ports/atmel-samd/Adafruit_CircuitPython_Motor"]
 	path = frozen/Adafruit_CircuitPython_Motor
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Motor.git
